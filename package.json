@@ -1,0 +1,17 @@
+{
+  "name": "36.5.markov",
+  "version": "1.0.0",
+  "description": "Markov Machines",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "markov"
+  ],
+  "author": "3ichael 7ambert",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
