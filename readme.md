@@ -41,7 +41,7 @@ npm install
 To generate text from a local text file, use the following command:
 
 ```bash
-node makeText.js eggs.txt
+node makeText.js file eggs.txt
 ```
 
 
@@ -50,8 +50,8 @@ node makeText.js eggs.txt
 To generate text from a URL, use the following command:
 
 ```bash
-node makeText.js url http://www.example.com/your-text-file.txt
+node makeText.js url https://www.google.com/robots.txt
 ```
 
-Replace `http://www.example.com/your-text-file.txt` with the URL of your text source.
+Replace `https://www.google.com/robots.txt` with the URL of your text source.
 
